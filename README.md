@@ -89,6 +89,10 @@ This project is a RESTful CRUD API for an E-Event Management System, developed u
   - email
   - password
   - roles
+- Role
+  - id
+  - name
+
 
 
 ## Roles and Permissions
